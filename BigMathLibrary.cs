@@ -1,4 +1,18 @@
-﻿using System;
+﻿
+/// <summary>
+/// The provided code is a comprehensive C# library named MathBigLibrary that offers a wide range of mathematical utility functions and constants.
+/// </summary>
+/// <remarks>
+/// Author: Bilel Mnasser
+/// Contact: personalhiddenmail@duck.com
+/// GitHub: https://github.com/attributeyielding
+/// website: https://personal-website-resume.netlify.app/#contact
+/// Date: January 2025
+/// Version: 1.0
+/// </remarks>
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
