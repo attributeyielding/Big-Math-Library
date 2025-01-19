@@ -1,6 +1,8 @@
 
 <!-- Doc 2 is in language en-US. Optimizing Doc 2 for scanning, using lists and bold where appropriate, but keeping language en-US, and adding id attributes to every HTML element: --><h2 id="kvtjez">Overview of <code id="7vh9d8u">BigMathLibrary</code></h2>
 <p id="kvtjez">The provided code is a comprehensive C# library named <code id="7vh9d8u">MathBigLibrary</code> that offers a wide range of mathematical utility functions and constants. Below is a summary of the key components and functionalities provided by this library:</p>
+<h3 id="ciekgfd">Library Overview</h3>
+<p id="ciekgfd">This library is a <strong>robust toolkit</strong> for a wide range of <strong>mathematical computations</strong>, suitable for educational purposes, scientific computing, or any application requiring <strong>advanced mathematical functions</strong>.</p>
 
 <h3 id="vydtf2w">1. <strong id="wv5w5pa">Constants</strong></h3>
 <ul id="tmadsiy">
@@ -140,8 +142,6 @@
 <p id="kgzkmi"><strong>Performance</strong>: Some functions, like <code id="xyhgtjs">Exp</code> and <code id="jj4yzq9">Log</code>, use <strong>iterative methods</strong> (e.g., Taylor series, Newton-Raphson) which may not be the most efficient for <strong>large inputs</strong> or <strong>high precision requirements</strong>.</p>
 </li>
 </ul>
-<h3 id="ciekgfd">Library Overview</h3>
-<p id="ciekgfd">This library is a <strong>robust toolkit</strong> for a wide range of <strong>mathematical computations</strong>, suitable for educational purposes, scientific computing, or any application requiring <strong>advanced mathematical functions</strong>.</p>
 
 
 
